@@ -1,6 +1,6 @@
 /* Lecteur et Analyseur de TeleCarte Française v0.4 - par Orion_ [2018]  - orionsoft.free.fr */
 /* Version nettoyée par Samy Rabih [2025 ]*/
-
+/* autre source : matthieu.weber.free.fr/electronique/cartes_a_puces/index.html */
 /* Assignement des Broches
  Arduino <-       Telecarte      -> Arduino
  VCC 5v <-  Vcc   1       5 GND  -> GND
